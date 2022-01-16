@@ -1,1 +1,2 @@
 pwd - Mostrar o caminho onde o terminal está sendo rodado
+ls - listar arquivos e diretórios
