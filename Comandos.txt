@@ -5,3 +5,4 @@ cat - ler aqrquivo no terminal
 clear - limpar o terminal
 ls -l - mostra as informações do diretório atual
 ls -la - mostra as informações(inclusive arquivos ocultos) do diretório atual
+man - mostra o manual (doc) do comando
