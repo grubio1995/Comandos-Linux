@@ -3,4 +3,5 @@ ls - listar arquivos e diretórios
 echo - exibir mensagem
 cat - ler aqrquivo no terminal
 clear - limpar o terminal
+ls -l - mostra as informações do diretórioa atual
 
