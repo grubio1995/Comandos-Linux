@@ -8,3 +8,4 @@ ls -la - mostra as informações(inclusive arquivos ocultos) do diretório atual
 man - mostra o manual (doc) do comando
 cd - acessar diretórios
 cd .. - voltar diretórios
+mkdir - criar diretórios
