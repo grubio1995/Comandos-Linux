@@ -9,3 +9,6 @@ man - mostra o manual (doc) do comando
 cd - acessar diretórios
 cd .. - voltar diretórios
 mkdir - criar diretórios
+rmdir - apagar diretórios vazios
+rm - apagar arquivos
+rm -r - apagar arquivos e diretórios
