@@ -12,3 +12,11 @@ mkdir - criar diretórios
 rmdir - apagar diretórios vazios
 rm - apagar arquivos
 rm -r - apagar arquivos e diretórios
+cp = copiar arquivos
+mv - mover ou renomear arquivo
+cp -r - copiar diretórios
+zip - compactar diretórios
+unzip - descompactar diretórios
+zip -r - compactar diretórios que comtém arquivos
+zip -qr - compactar diretórios que comtém arquivos sem mostrar a mensagem
+unzip -q - descompactar diretórios sem mostrar a mensagem
