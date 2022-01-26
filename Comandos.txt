@@ -23,3 +23,7 @@ unzip -q - descompactar diretórios sem mostrar a mensagem
 tar -czf - compactar pasta e arquivos (mais comum usar ele no linux)
 tar -xzf - descompactar pastas e arquivos
 tar -vczf - compactar pasta e arquivos (mostrando mensagem com o que foi feito)
+touch - altera a data da última modificação do arquivo
+head -n - traz as linhas primeiras linhas do 
+tail -n - traz as linhas primeiras linhas do arquivo
+less - visualizar arquivo 
